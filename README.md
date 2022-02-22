@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src=https://submissions.us-east-1.linodeobjects.com/ios_university/Zic47OXy.gif, width=250 />
+<img src=https://hnet.com/video-to-gif/viewimage/20220222-05-KMRu1t6dsklDmcRE-tDNbHP-HNET, width=250 />
 
 
 
