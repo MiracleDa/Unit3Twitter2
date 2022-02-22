@@ -21,8 +21,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src=https://submissions.us-east-1.linodeobjects.com/ios_university/Zic47OXy.gif, width=250 />
 
-<img src='part2-walkthrough.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 
 # Twitter - Part I
 
