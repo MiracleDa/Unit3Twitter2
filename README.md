@@ -48,5 +48,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-https://hnet.com/video-to-gif/viewimage/20220221-13-k2tI6vS6fCzg44BT-KyXcvg-HNET
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/Zic47OXy.gif", width=250 />
